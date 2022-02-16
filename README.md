@@ -11,3 +11,7 @@ npm install antispam-guard
 ```
 npm install fs
 ```
+## Start
+```
+node index.js
+```
